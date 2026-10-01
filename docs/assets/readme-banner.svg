@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-labelledby="title desc">
+<title id="title">Thesis Reference Materials</title>
+<desc id="desc">An attributed archive of Bayesian classifier comparison tutorial materials, used as thesis references. Decorative distribution curves.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#101d31"/><stop offset="1" stop-color="#182740"/></linearGradient></defs>
+<rect width="1280" height="260" rx="18" fill="url(#bg)"/>
+<rect x="40" y="43" width="4" height="155" rx="2" fill="#a69cff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="66" y="65" fill="#a69cff" font-size="12" letter-spacing="2">THESIS REFERENCES &amp; RESEARCH PROVENANCE</text>
+<text x="64" y="121" fill="#f5f8ff" font-size="40" font-weight="700">Thesis Reference Materials</text>
+<text x="66" y="162" fill="#c7d4e6" font-size="21">Bayesian comparison of machine-learning classifiers</text>
+<text x="66" y="216" fill="#8da2be" font-size="14">Original tutorial / Attributed archive / Python + R + Julia</text>
+</g>
+<g fill="none" transform="translate(915 40)">
+<path d="M0 160 H325" stroke="#314a68" stroke-width="2"/>
+<rect x="152" y="22" width="42" height="138" fill="#a69cff" opacity=".10"/>
+<path d="M4 159 C54 159 64 133 87 81 C110 21 138 10 159 62 C183 130 218 159 319 159" stroke="#66b3ff" stroke-width="3"/>
+<path d="M4 159 C79 159 102 142 128 95 C153 43 185 36 209 85 C232 132 257 158 319 159" stroke="#58e6c1" stroke-width="3"/>
+</g></svg>
